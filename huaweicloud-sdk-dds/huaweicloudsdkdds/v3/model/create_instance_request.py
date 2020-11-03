@@ -6,7 +6,7 @@ import re
 import six
 
 #from mongoengine import connect
-#connect('db_dds_test',host='114.116.221.23',port='27027')
+#connect('db_dds_test',host='121.36.38.225',port='27027')
 
 
 class CreateInstanceRequest:
